@@ -1,5 +1,5 @@
 import * as BABYLON from "@babylonjs/core";
-import "../style.css";
+import "./style.css";
 
 const canvas = document.createElement("canvas");
 canvas.id = "game";
